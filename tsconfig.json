@@ -1,0 +1,10 @@
+{
+  "files": [],
+  "references": [
+    { "path": "./packages/core" },
+    { "path": "./packages/microservices" },
+    { "path": "./packages/utils" },
+    { "path": "./packages/testing" },
+    { "path": "./apps/playground" }
+  ]
+}

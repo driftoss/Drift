@@ -1,0 +1,38 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "ESNext",
+    "lib": ["ES2022"],
+    "moduleResolution": "bundler",
+    "resolveJsonModule": true,
+    "allowJs": true,
+    "checkJs": false,
+    "jsx": "react-jsx",
+    "declaration": true,
+    "declarationMap": true,
+    "sourceMap": true,
+    "outDir": "./dist",
+    "removeComments": true,
+    "isolatedModules": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noImplicitReturns": true,
+    "skipLibCheck": true,
+    "noEmit": true,
+    "composite": true,
+    "baseUrl": ".",
+    "paths": {
+      "@drift/core": ["packages/core/src"],
+      "@drift/core/*": ["packages/core/src/*"],
+      "@drift/microservices": ["packages/microservices/src"],
+      "@drift/microservices/*": ["packages/microservices/src/*"],
+      "@drift/utils": ["packages/utils/src"],
+      "@drift/utils/*": ["packages/utils/src/*"],
+      "@drift/testing": ["packages/testing/src"],
+      "@drift/testing/*": ["packages/testing/src/*"]
+    }
+  }
+}
