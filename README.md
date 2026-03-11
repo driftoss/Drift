@@ -8,9 +8,6 @@
   <a href="https://www.npmjs.com/package/drift">
     <img src="https://img.shields.io/npm/v/drift" alt="npm version">
   </a>
-  <a href="https://www.npmjs.com/package/drift">
-    <img src="https://img.shields.io/npm/dt/drift" alt="npm downloads">
-  </a>
   <a href="./LICENSE">
     <img src="https://img.shields.io/github/license/driftoss/Drift" alt="license">
   </a>
