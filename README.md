@@ -163,7 +163,3 @@ Apache License 2.0 - see [LICENSE](./LICENSE)
 
 - [GitHub](https://github.com/driftoss/Drift)
 - [GitHub Discussions](https://github.com/driftoss/Drift/discussions)
-
----
-
-<p align="center">Made with ❤️ by the Drift Team</p>
