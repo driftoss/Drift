@@ -1,6 +1,6 @@
 {
   "name": "drift-framework",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "private": true,
   "description": "High-Performance Microservices Framework for Node.js",
   "license": "Apache-2.0",
